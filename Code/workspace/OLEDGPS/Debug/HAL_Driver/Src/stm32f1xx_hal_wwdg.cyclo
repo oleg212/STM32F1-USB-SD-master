@@ -1,0 +1,10 @@
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:239:13:HAL_WWDG_MspInit	1
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:152:19:HAL_WWDG_Init	3
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:254:13:HAL_WWDG_MspDeInit	1
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:197:19:HAL_WWDG_DeInit	2
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:290:19:HAL_WWDG_Start	2
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:317:19:HAL_WWDG_Start_IT	2
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:342:19:HAL_WWDG_Refresh	2
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:408:13:HAL_WWDG_WakeupCallback	1
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:379:6:HAL_WWDG_IRQHandler	3
+../HAL_Driver/Src/stm32f1xx_hal_wwdg.c:442:23:HAL_WWDG_GetState	1

@@ -1,0 +1,6 @@
+../src/setup.c:14:6:SystemClock_Config	96	static
+../src/setup.c:67:6:MX_SPI1_Init	0	static
+../src/setup.c:88:6:MX_SPI2_Init	0	static
+../src/setup.c:115:6:MX_GPIO_Init	40	static
+../src/setup.c:4:6:setup	8	static
+../src/setup.c:148:6:HAL_TIM_PeriodElapsedCallback	0	static

@@ -1,0 +1,7 @@
+../HAL_Driver/Src/stm32f1xx_hal_crc.c:181:13:HAL_CRC_MspInit	1
+../HAL_Driver/Src/stm32f1xx_hal_crc.c:112:19:HAL_CRC_Init	3
+../HAL_Driver/Src/stm32f1xx_hal_crc.c:196:13:HAL_CRC_MspDeInit	1
+../HAL_Driver/Src/stm32f1xx_hal_crc.c:145:19:HAL_CRC_DeInit	2
+../HAL_Driver/Src/stm32f1xx_hal_crc.c:235:10:HAL_CRC_Accumulate	3
+../HAL_Driver/Src/stm32f1xx_hal_crc.c:270:10:HAL_CRC_Calculate	3
+../HAL_Driver/Src/stm32f1xx_hal_crc.c:323:22:HAL_CRC_GetState	1

@@ -1,0 +1,12 @@
+../src/SDCard.cpp:10:1:SDCard::SDCard(volatile SPI_HandleTypeDef*, uint16_t, GPIO_TypeDef*)	8	static
+../src/SDCard.cpp:220:6:void SDCard::selectCard()	0	static
+../src/SDCard.cpp:287:6:void SDCard::deselectCard()	0	static
+../src/SDCard.cpp:301:19:HAL_StatusTypeDef SDCard::lSPI_WaitFlagStateUntilTimeout(SPI_HandleTypeDef*, uint32_t, uint32_t, uint32_t, uint32_t)	24	static
+../src/SDCard.cpp:224:19:HAL_StatusTypeDef SDCard::SPI_Recieve(uint8_t*, uint16_t)	24	static
+../src/SDCard.cpp:134:6:void SDCard::waitUntilReady()	16	static
+../src/SDCard.cpp:190:9:uint8_t SDCard::cardCommand(uint8_t, uint32_t)	40	static
+../src/SDCard.cpp:44:9:uint8_t SDCard::readRegister(uint8_t, void*)	24	static
+../src/SDCard.cpp:18:10:uint32_t SDCard::getSize()	24	static
+../src/SDCard.cpp:61:6:bool SDCard::readBlock(uint32_t, uint8_t*)	24	static
+../src/SDCard.cpp:84:6:bool SDCard::writeBlock(uint32_t, uint8_t*)	24	static
+../src/SDCard.cpp:141:6:bool SDCard::initalize()	24	static
